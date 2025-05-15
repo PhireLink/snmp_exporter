@@ -24,7 +24,7 @@ modules:
       - interfaces
       - ifXTable
       - inetCidrRouteNumber
-      - jnxBgpM2PeerCounters
+      - bgpPeerTable
       - jnxOperatingTable
    
 
